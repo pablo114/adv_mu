@@ -1,0 +1,9 @@
+<?php
+//TUTAJ DAJEMY WYNIK PRACY ROUTERA I ROBIMY INCLUDE WLASCIWYCH PLIKOW
+class Dispatcher {
+
+	
+	
+}
+
+?>
